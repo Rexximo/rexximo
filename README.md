@@ -25,14 +25,11 @@ Here are some ideas to get you started:
 
 ###
 
-<div class="row">
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexximo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexximo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rexximo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b5knmnwzvctkanpo5sbcf5qsdm&width=300)
-</div>
-</div>
+###
 
 ###
