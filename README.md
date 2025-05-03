@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexximo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <picture>
@@ -29,8 +25,13 @@ Here are some ideas to get you started:
 
 ###
 
+<div class="row">
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rexximo/count.svg?"  />
+</div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexximo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 </div>
 
 ###
