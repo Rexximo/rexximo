@@ -1,3 +1,4 @@
+![banner](/img/banner.png)
 ## Hi there 👋
 
 <!--
